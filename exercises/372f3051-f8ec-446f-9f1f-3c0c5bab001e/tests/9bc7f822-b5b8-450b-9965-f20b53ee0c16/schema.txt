@@ -26,3 +26,8 @@
 /[+]/ -> "Użyj znaku + do obliczenia sumy dwóch liczb."
 /\b6\b/ -> "Pamiętaj o liczbie 6."
 
+
+        if (files[0].status !== 8) {
+          this.readFile(this.fileItem.file);
+        }
+        
