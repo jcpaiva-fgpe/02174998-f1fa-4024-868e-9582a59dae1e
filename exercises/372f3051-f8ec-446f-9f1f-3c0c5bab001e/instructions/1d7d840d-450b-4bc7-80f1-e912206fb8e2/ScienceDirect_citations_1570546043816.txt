@@ -1,10 +1,3 @@
-Fouzia Kahloun, Sonia Ayachi Ghannouchi,
-Improvement of Quality for Business Process Modeling Driven by Guidelines,
-Procedia Computer Science,
-Volume 126,
-2018,
-Pages 39-48,
-ISSN 1877-0509,
-https://doi.org/10.1016/j.procs.2018.07.207.
-(http://www.sciencedirect.com/science/article/pii/S1877050918311815)
-Keywords: Business Process Model; Quality; Measure; Threshold; BPMoQualAssess; Improvement; BPMN; Guidelines; Higher education
+/\b4\b/ -> "Pamiętaj o liczbie 4."
+/[+]/ -> "Użyj znaku + do obliczenia sumy dwóch liczb."
+/\b6\b/ -> "Pamiętaj o liczbie 6."
